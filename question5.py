@@ -1,0 +1,1 @@
+print {i:i*2 for i in range(3)}  # {0: 0, 1: 2, 2: 4}
